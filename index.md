@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+# <div align="center">Paige Wilson, Paleobotanist
 
-You can use the [editor on GitHub](https://github.com/WaigePilson/paleobotanist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div align="center"> *Personal website for Paige Wilson, Paleobotanist and Geologist PhD Candidate*
+<div align="center"> *Earth and Space Sciences Dept., University of Washington*
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
